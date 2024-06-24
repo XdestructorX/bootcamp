@@ -1,7 +1,7 @@
 <template>
   <main>
     <img src="/logo2.svg" alt="DFINITY logo" />
-    sigma
+    test
   <br/>
   <button @click="podbij">podbij</button>
     {{ licznik }}
@@ -21,5 +21,6 @@ export default {
     }
   },  
 }
+
 
 </script>
